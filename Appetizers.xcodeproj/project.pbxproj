@@ -14,6 +14,7 @@
 		BEF5FB82291E785D005925ED /* AppetizerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5FB81291E785D005925ED /* AppetizerListView.swift */; };
 		BEF5FB84291E7873005925ED /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5FB83291E7873005925ED /* AccountView.swift */; };
 		BEF5FB86291E7883005925ED /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5FB85291E7883005925ED /* OrderView.swift */; };
+		BEF5FB88291E8B74005925ED /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF5FB87291E8B74005925ED /* Appetizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		BEF5FB81291E785D005925ED /* AppetizerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListView.swift; sourceTree = "<group>"; };
 		BEF5FB83291E7873005925ED /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		BEF5FB85291E7883005925ED /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		BEF5FB87291E8B74005925ED /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BEF5FB85291E7883005925ED /* OrderView.swift */,
 				BEF5FB77291E77DD005925ED /* Assets.xcassets */,
 				BEF5FB79291E77DD005925ED /* Preview Content */,
+				BEF5FB87291E8B74005925ED /* Appetizer.swift */,
 			);
 			path = Appetizers;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEF5FB88291E8B74005925ED /* Appetizer.swift in Sources */,
 				BEF5FB84291E7873005925ED /* AccountView.swift in Sources */,
 				BEF5FB76291E77DC005925ED /* AppetizerTabView.swift in Sources */,
 				BEF5FB74291E77DC005925ED /* AppetizersApp.swift in Sources */,
